@@ -1,2 +1,2 @@
-# twitter-scraper
-MLPR IPO Classification step 1: twitter scraper
+# web-scraper
+MLPR IPO Classification step 1: web scraper
